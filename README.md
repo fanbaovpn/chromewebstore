@@ -80,6 +80,9 @@ _权限是一系列已知字符串中的某一个字符串（例如“activeTab�
 您应移除所有对实现扩展程序单一用途并非必不可少的权限。请求不必要的权限会导致此版本遭拒。
 
 由于涉及主机权限，您的扩展程序可能必须接受深入审核，这会导致发布时间延迟。
+**看图!!就知道不简单**
+![Image text](https://github.com/fanbaovpn/chromewebstore/blob/main/zd.png)
+
 
 *需请求tabs的理由*
 
